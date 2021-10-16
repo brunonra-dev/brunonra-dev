@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am Bruno Rodríguez, I started this journey since I found out how video games are made, from there I started to study some programming languages such as JavaScript, Rust, Python.
+
+I'm courrently learning at [Holberton](https://www.holbertonschool.com/) you can see my repositories to see what I'm doing.
+
+You can talk to me on [linkedin](https://www.linkedin.com/in/brunonra/)💬
 <!--
 **brunonra-dev/brunonra-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
