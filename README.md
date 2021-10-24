@@ -26,5 +26,6 @@ Interested on:
 
 ![flutter](https://img.icons8.com/fluency/50/000000/flutter.png "flutter")
 ![typescript](https://img.icons8.com/color/50/000000/typescript.png "typescript")
+![rustlang](https://cdn.icon-icons.com/icons2/2699/PNG/512/rust_lang_logo_icon_169776.png "rust")
 ![unity](https://img.icons8.com/fluency/50/000000/unity.png "unity3d")
 ![blockchain](https://img.icons8.com/external-wanicon-flat-wanicon/50/000000/external-blockchain-nft-wanicon-flat-wanicon.png "blockchain")
