@@ -1,21 +1,30 @@
+![gif](https://media0.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47f4c49baxbuouc87ht1bzj02z9fgpa8569b2wkrse&rid=giphy.gif&ct=g)
 ### Hi there 👋
 
 I am Bruno Rodríguez, I started this journey since I found out how video games are made, from there I started to study some programming languages such as JavaScript, Rust, Python.
 
 I'm courrently learning at [Holberton](https://www.holbertonschool.com/) you can see my repositories to see what I'm doing.
 
-You can talk to me on [linkedin](https://www.linkedin.com/in/brunonra/)💬
-<!--
-**brunonra-dev/brunonra-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can talk to me on:
 
-Here are some ideas to get you started:
+[![Linkedin](https://img.icons8.com/fluency/50/000000/linkedin.png)](https://www.linkedin.com/in/brunonra/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunonra-dev&show_icons=true&icon_color=f9f9f9&bg_color=30,4568DC,B06AB3&title_color=fff&text_color=fff&count_private=true)](https://github.com/brunonra-dev)
+
+I work with:
+
+![c](https://img.icons8.com/color/50/000000/c-programming.png "c")
+![bash](https://img.icons8.com/plasticine/50/000000/bash.png "bash")
+![Javascript](https://img.icons8.com/color/50/000000/javascript--v1.png "Javascript")
+![vuejs](https://img.icons8.com/color/50/000000/vue-js.png "vuejs")
+![figma](https://img.icons8.com/fluency/50/000000/figma.png "figma")
+![vscode](https://img.icons8.com/color/50/000000/visual-studio-code-2019.png "vscode")
+
+
+Interested on:
+
+![flutter](https://img.icons8.com/fluency/50/000000/flutter.png "flutter")
+![typescript](https://img.icons8.com/color/50/000000/typescript.png "typescript")
+![unity](https://img.icons8.com/fluency/50/000000/unity.png "unity3d")
+![blockchain](https://img.icons8.com/external-wanicon-flat-wanicon/50/000000/external-blockchain-nft-wanicon-flat-wanicon.png "blockchain")
