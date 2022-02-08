@@ -14,7 +14,7 @@ You can talk to me on:
 
 I work with:
 
-![c](https://img.icons8.com/color/50/000000/c-programming.png "c")
+![python](https://img.icons8.com/color/48/000000/python--v1.png "python")
 ![bash](https://img.icons8.com/plasticine/50/000000/bash.png "bash")
 ![Javascript](https://img.icons8.com/color/50/000000/javascript--v1.png "Javascript")
 ![vuejs](https://img.icons8.com/color/50/000000/vue-js.png "vuejs")
@@ -27,4 +27,3 @@ Interested on:
 ![flutter](https://img.icons8.com/fluency/50/000000/flutter.png "flutter")
 ![typescript](https://img.icons8.com/color/50/000000/typescript.png "typescript")
 ![unity](https://img.icons8.com/fluency/50/000000/unity.png "unity3d")
-![blockchain](https://img.icons8.com/external-wanicon-flat-wanicon/50/000000/external-blockchain-nft-wanicon-flat-wanicon.png "blockchain")
