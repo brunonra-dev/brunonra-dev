@@ -27,3 +27,5 @@ Interested on:
 ![flutter](https://img.icons8.com/fluency/50/000000/flutter.png "flutter")
 ![typescript](https://img.icons8.com/color/50/000000/typescript.png "typescript")
 ![unity](https://img.icons8.com/fluency/50/000000/unity.png "unity3d")
+<img src="https://godotengine.org/themes/godotengine/assets/press/icon_color.png" alt="Godot" width="50"/>
+![Rust Lang](https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/000000/external-rust-is-a-multi-paradigm-system-programming-language-logo-color-tal-revivo.png "Rust Lang")
