@@ -1,7 +1,7 @@
 ![gif](https://media0.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47f4c49baxbuouc87ht1bzj02z9fgpa8569b2wkrse&rid=giphy.gif&ct=g)
 ### Hi there 👋
 
-I am Bruno Rodríguez, I started this journey since I found out how video games are made, from there I started to study some programming languages such as JavaScript, Rust, Python.
+I am Bruno Rodríguez, I started this journey in progamation since I discovered how video games are made, from there I began to study some programming languages such as JavaScript, Rust, Python.
 
 I'm courrently learning at [Holberton](https://www.holbertonschool.com/) you can see my repositories to see what I'm doing.
 
