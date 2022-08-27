@@ -3,6 +3,8 @@
 
 I am Bruno Rodríguez, a recent Software Engineer graduate of [Holberton School](https://www.holbertonschool.com/), with a great affinity for technology, desire to learn and improve in a diverse team, working anywhere on the planet and perhaps beyond. Passionate about Front-end technologies and Videogames.
 
+My portfolio [https://brunonra-dev.github.io/](https://brunonra-dev.github.io/)
+
 You can talk to me on:
 
 [![Linkedin](https://img.icons8.com/fluency/50/000000/linkedin.png)](https://www.linkedin.com/in/brunonra/)
