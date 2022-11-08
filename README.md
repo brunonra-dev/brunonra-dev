@@ -9,9 +9,6 @@ You can talk to me on:
 
 [![Linkedin](https://img.icons8.com/fluency/50/000000/linkedin.png)](https://www.linkedin.com/in/brunonra/)
 
-
-[![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunonra-dev&show_icons=true&icon_color=f9f9f9&bg_color=30,4568DC,B06AB3&title_color=fff&text_color=fff&count_private=true)](https://github.com/brunonra-dev)
-
 I work with:
 
 ![python](https://img.icons8.com/color/48/000000/python--v1.png "python")
