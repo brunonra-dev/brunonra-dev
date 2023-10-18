@@ -1,7 +1,7 @@
 ![gif](https://media0.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47f4c49baxbuouc87ht1bzj02z9fgpa8569b2wkrse&rid=giphy.gif&ct=g)
 ### Hi there 👋
 
-I am Bruno, a recent Software Engineer graduate of [Holberton School](https://www.holbertonschool.com/), with a great affinity for technology, desire to learn and improve in a diverse team, working anywhere on the planet. Passionate about Front-end technologies and Videogames.
+Frontend developer working for Wunderman Thompson, I have a great affinity for technology, and a desire to learn and improve in a diverse team, working anywhere on the planet. Passionate about Front-end technologies and Videogames.
 
 My portfolio [https://brunonra-dev.github.io/](https://brunonra-dev.github.io/)
 
