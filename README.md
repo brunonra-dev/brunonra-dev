@@ -1,13 +1,13 @@
 ![gif](https://media0.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47f4c49baxbuouc87ht1bzj02z9fgpa8569b2wkrse&rid=giphy.gif&ct=g)
 ### Hi there 👋
 
-Frontend developer working for Wunderman Thompson, I have a great affinity for technology, and a desire to learn and improve in a diverse team, working anywhere on the planet. Passionate about Front-end technologies and Videogames.
+Frontend developer working for Hogarth, I have a great affinity for technology, and a desire to learn and improve, working anywhere on the planet. Passionate about Front-end technologies and Videogames.
 
 My portfolio [https://brunonra-dev.github.io/](https://brunonra-dev.github.io/)
 
 You can talk to me on:
 
-[![Linkedin](https://img.icons8.com/fluency/50/000000/linkedin.png)](https://www.linkedin.com/in/brunonra/)
+[![Linkedin](https://img.icons8.com/fluency/50/000000/linkedin.png)](https://www.linkedin.com/in/bruno-des/)
 
 I work with:
 
